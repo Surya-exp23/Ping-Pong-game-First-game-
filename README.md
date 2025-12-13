@@ -28,7 +28,9 @@ It includes simple paddle controls, scoring system, and win detection.
 
 ## 🎮 Game Demo
 
-![Game Demo](pingpong.gif)
+<p align="center">
+  <img src="pingpong.gif" width="500" />
+</p>
 
 
 ## 🎮 How to Run
