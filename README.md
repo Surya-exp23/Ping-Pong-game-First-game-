@@ -25,6 +25,12 @@ It includes simple paddle controls, scoring system, and win detection.
 
 -Add difficulty levels or AI paddle
 
+
+## 🎮 Game Demo
+
+![Game Demo](pingpong.gif)
+
+
 ## 🎮 How to Run
 1. Install Python (if not installed)
 2. Run the game with:
